@@ -21,6 +21,3 @@ It allows users to play songs with basic controls like play, pause, next, and pr
 1. Download or clone the repository.
 2. Open the `index.html` file in your browser.
 3. Enjoy your music!
-
----
-
