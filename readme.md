@@ -24,4 +24,3 @@ It allows users to play songs with basic controls like play, pause, next, and pr
 
 ---
 
-Made with ❤️ by [Shrishti].
